@@ -26,3 +26,6 @@ advances
 -   Public or private harassment
 -   Publishing others' private information, such as a physical or electronic
   address, without explicit permission
+
+##Breaking the rules
+Those who break the rules shall be banned from all community activities
